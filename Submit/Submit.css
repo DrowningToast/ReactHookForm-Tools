@@ -1,0 +1,4 @@
+.inputSubmit:focus {
+    outline-offset: 0.35rem;
+    outline-color: invert;
+}
