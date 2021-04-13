@@ -7,6 +7,8 @@
 ***
 
 #### **Dependencies**
+- React
+- React DOM
 - React Hook Form V.7.X.X
 
 <br>
